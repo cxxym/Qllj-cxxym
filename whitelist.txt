@@ -1,0 +1,11 @@
+whitelist.txt
+ook.sh
+Android
+ColorOS
+Download
+DCIM
+MT2
+Pictures
+deleted_files.log
+Documents
+HeyTap Cloud
